@@ -10,7 +10,7 @@ incrementation = incrementation + 01
 count = count + 1
 email = email + newvalue
 
-break if count == 10
+break if count == 50
 end
 
 #Création et Inscription des faux e-mail sur l'array 
