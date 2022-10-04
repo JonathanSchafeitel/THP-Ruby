@@ -1,3 +1,11 @@
+############# The Hacking Project #############
+########## Session 2022 / Septembre ###########
+###############################################
+############# Jonathan Schafeitel #############
+####### Exercice pyramide simple ##############
+
+
+
 puts "Salut, bienvenue dans ma pyramide ! Combien d'étages veux-tu ?"
 print ">"
 

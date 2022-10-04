@@ -1,20 +1,28 @@
-#Init les valeurs
-count = 0
-incrementation = 1
-email = ""
+############# The Hacking Project #############
+########## Session 2022 / Septembre ###########
+###############################################
+############# Jonathan Schafeitel #############
+######### Exercice des mails array  ###########
+
+
+
+#J'initie les variables en 2 parties
+part1 = "jean.dupont."
+part3= "@email.fr"
+#Création du tableau
 tab = []
+#counter
+counter = 1
 
 loop do
-newvalue = "jean.dupont.#{incrementation}@email.fr"
-incrementation = incrementation + 01
-count = count + 1
-email = email + newvalue
-
-break if count == 50
+  #formatage du 0 avant int
+	part2 = '%02d' % counter
+	counter +=1
+	tab << "#{part1}#{part2}#{part3}"
+	puts tab
+  #Incrementation
+	part2 = part2.to_i + 1 
+	if counter == 50 + 1
+		break
+	end
 end
-
-#Création et Inscription des faux e-mail sur l'array 
-tab = [email]
-puts tab
-
-

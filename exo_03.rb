@@ -1,3 +1,9 @@
+############# The Hacking Project #############
+########## Session 2022 / Septembre ###########
+###############################################
+############# Jonathan Schafeitel #############
+######### Exercice calcule des âges ###########
+
 year_ref = 2017
 
 puts "Quel est ton année de naissance ?"

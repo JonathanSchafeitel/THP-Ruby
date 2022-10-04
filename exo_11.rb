@@ -1,3 +1,10 @@
+############# The Hacking Project #############
+########## Session 2022 / Septembre ###########
+###############################################
+############# Jonathan Schafeitel #############
+####### Exercice virer les années #############
+
+
 year_current = 2022
 
 puts "Quel est ton âge ?"

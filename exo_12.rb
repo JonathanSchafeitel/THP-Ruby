@@ -1,3 +1,9 @@
+############# The Hacking Project #############
+########## Session 2022 / Septembre ###########
+###############################################
+############# Jonathan Schafeitel #############
+####### Exercice egalité age / ans ############
+
 year_current = 2022
 
 puts "Quel est ton âge ?"

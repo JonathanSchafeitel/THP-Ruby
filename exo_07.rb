@@ -1,3 +1,9 @@
+############# The Hacking Project #############
+########## Session 2022 / Septembre ###########
+###############################################
+############# Jonathan Schafeitel #############
+############# Exercice compter  ###############
+
 puts "Donne moi un nombre "
 print ">"
 

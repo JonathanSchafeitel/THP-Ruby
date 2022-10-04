@@ -1,3 +1,11 @@
+############# The Hacking Project #############
+########## Session 2022 / Septembre ###########
+###############################################
+############# Jonathan Schafeitel #############
+####### Exercice pyramide inversée ############
+
+
+
 puts "Salut, bienvenue dans ma super pyramide inversée ! Combien d'étages veux-tu ?"
 print ">"
 # Je recupère la valeur de l'utilisateur

@@ -1,3 +1,9 @@
+############# The Hacking Project #############
+########## Session 2022 / Septembre ###########
+###############################################
+############# Jonathan Schafeitel #############
+####### Exercice afficher les années ##########
+
 puts "Quel est ton année de naissance ?"
 print ">"
 
